@@ -12,12 +12,12 @@ git clone
 
 cd Conduit_regression_suite
 ```
- To open cypress test runner:
+ To open cypress test runner
  ```
  npx cypress open
 ```
 
- To run cypress tests in a headless mode:
+ To run cypress tests in a headless mode
  ```
 npx cypress run
 ```
