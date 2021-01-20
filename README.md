@@ -17,7 +17,7 @@ cd Conduit_regression_suite
  npx cypress open
 ```
 
- To run cypress test runner in a headless mode:
+ To run cypress tests in a headless mode:
  ```
 npx cypress run
 ```
