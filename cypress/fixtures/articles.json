@@ -1,0 +1,164 @@
+{
+  "articles": [
+    {
+      "slug": "my-title-udborb",
+      "title": "My Title",
+      "description": "About X",
+      "body": "This is important",
+      "createdAt": "2021-01-20T01:35:46.792Z",
+      "updatedAt": "2021-01-20T01:35:46.792Z",
+      "tagList": [],
+      "favorited": false,
+      "favoritesCount": 0,
+      "author": {
+        "username": "admin123",
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      }
+    },
+    {
+      "slug": "my-title-d3xlog",
+      "title": "My Title",
+      "description": "About X",
+      "body": "This is important",
+      "createdAt": "2021-01-20T01:34:31.586Z",
+      "updatedAt": "2021-01-20T01:34:31.586Z",
+      "tagList": [],
+      "favorited": false,
+      "favoritesCount": 0,
+      "author": {
+        "username": "admin123",
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      }
+    },
+    {
+      "slug": "my-title-llmpkg",
+      "title": "My Title",
+      "description": "About X",
+      "body": "This is important",
+      "createdAt": "2021-01-19T23:19:29.492Z",
+      "updatedAt": "2021-01-19T23:19:29.492Z",
+      "tagList": [],
+      "favorited": false,
+      "favoritesCount": 0,
+      "author": {
+        "username": "admin123",
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      }
+    },
+    {
+      "slug": "my-title-xs0mmt",
+      "title": "My Title",
+      "description": "About X",
+      "body": "This is important",
+      "createdAt": "2021-01-19T23:18:58.738Z",
+      "updatedAt": "2021-01-19T23:18:58.738Z",
+      "tagList": [],
+      "favorited": false,
+      "favoritesCount": 0,
+      "author": {
+        "username": "admin123",
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      }
+    },
+    {
+      "slug": "my-title-jfo9q",
+      "title": "My Title",
+      "description": "About X",
+      "body": "This is important",
+      "createdAt": "2021-01-19T22:17:44.665Z",
+      "updatedAt": "2021-01-19T22:17:44.665Z",
+      "tagList": [],
+      "favorited": false,
+      "favoritesCount": 0,
+      "author": {
+        "username": "admin123",
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      }
+    },
+    {
+      "slug": "my-title-a4pb5f",
+      "title": "My Title",
+      "description": "About X",
+      "body": "This is important",
+      "createdAt": "2021-01-19T22:17:20.900Z",
+      "updatedAt": "2021-01-19T22:17:20.900Z",
+      "tagList": [],
+      "favorited": false,
+      "favoritesCount": 0,
+      "author": {
+        "username": "admin123",
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      }
+    },
+    {
+      "slug": "my-title-rb536",
+      "title": "My Title",
+      "description": "About X",
+      "body": "This is important",
+      "createdAt": "2021-01-19T22:07:48.252Z",
+      "updatedAt": "2021-01-19T22:07:48.252Z",
+      "tagList": [],
+      "favorited": false,
+      "favoritesCount": 0,
+      "author": {
+        "username": "admin123",
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      }
+    },
+    {
+      "slug": "my-title-15grki",
+      "title": "My Title",
+      "description": "About X",
+      "body": "This is important",
+      "createdAt": "2021-01-19T22:06:46.969Z",
+      "updatedAt": "2021-01-19T22:06:46.969Z",
+      "tagList": [],
+      "favorited": false,
+      "favoritesCount": 0,
+      "author": {
+        "username": "admin123",
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      }
+    },
+    {
+      "slug": "my-title-tuxqyr",
+      "title": "My Title",
+      "description": "About X",
+      "body": "This is important",
+      "createdAt": "2021-01-19T22:06:01.013Z",
+      "updatedAt": "2021-01-19T22:06:01.013Z",
+      "tagList": [],
+      "favorited": false,
+      "favoritesCount": 0,
+      "author": {
+        "username": "admin123",
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      }
+    },
+    {
+      "slug": "-36bhyi",
+      "title": "",
+      "description": "",
+      "body": "",
+      "createdAt": "2021-01-19T22:05:06.276Z",
+      "updatedAt": "2021-01-19T22:05:06.276Z",
+      "tagList": [],
+      "favorited": false,
+      "favoritesCount": 0,
+      "author": {
+        "username": "admin123",
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      }
+    }
+  ]
+}
